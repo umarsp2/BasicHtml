@@ -1,0 +1,28 @@
+
+body{
+	padding-top: 10px;
+	text-align: center;
+	font-size: 14px;
+	background-color: #f1c40f;
+}
+
+h1{
+	color: tomato;
+	text-shadow: 4px 4px 8px orangered;
+}
+
+a:visited, a:link, a:active{
+	border: 0px solid red;
+	border-radius: 10px;
+	padding: 5px;
+	background: yellow;
+	text-decoration: none;
+}
+a:hover{
+	border: 1px solid yellow;
+	border-radius: 25px;
+	padding: 10px;
+	background: white;
+	text-decoration: none;
+	font-size: 17px;
+}
